@@ -69,7 +69,7 @@ Layout styles
 
 .footer
 {
-	color: #000000;
+	color: #000;
 	background: #000;
 	padding: 1em 1.25em;
 }
@@ -259,7 +259,7 @@ img-Longhouse {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #000000;
+    color: #000;
     background-color: #6e6e6e;
     background-clip: padding-box;
     border: 1px solid #ced4da;
@@ -743,4 +743,3 @@ footer .form-control {
 	.remember_me {
 		padding-bottom: 20px;
 	}
-}
